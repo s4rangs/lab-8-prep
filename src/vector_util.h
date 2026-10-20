@@ -2,6 +2,7 @@
 #define VECTOR_UTIL_H
 
 #include <iostream>
+#include <cassert>
 
 #include <SFML/System/Vector2.hpp>
 
